@@ -10,7 +10,7 @@ finish my work, if I don't, I never give up until I finish it.
 
 Skills: Flutter/Android Native(Java)/Java/MySql/Firebase/C/C++
 
-- 🔭 I’m currently working on Expense Tracker 
+- 🔭 I’m currently working on Shop Inventory App 
 - 🌱 I’m currently learning Flutter, Mobile Application Development 
 - 💬 Ask me about Mobile Application Development, Flutter, Java, C++ 
 - 📫 How to reach me: progmaksudur@gmail.com 
