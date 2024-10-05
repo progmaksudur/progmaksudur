@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Maksudur Rahman
-#### A passionate Mobile Application Developer from Bangladesh
+#### A passionate Software Engineer  from Bangladesh
 ![A passionate Mobile Application Developer from Bangladesh](https://github.com/progmaksudur/progmaksudur/blob/main/Maksudur%20Rahman.png?raw=true)
 
 I am a diligent software engineer. Recent Computer Science & Engineering graduate with fundamental
@@ -8,11 +8,11 @@ Seeking to utilize broad educational background and excellent programming ,analy
 skills to thrive as an android developer. I’m a very optimistic and hard-working person. I always try to
 finish my work, if I don't, I never give up until I finish it.
 
-Skills: Flutter/Android Native(Java)/Java/MySql/Firebase/C/C++
+Skills: Flutter/Android Native(Java)/Spring Boot/Java/Dart/Kotlin/JetPack Compose(Kotlin)/MySql/Firebase/C/C++
 
 - 🔭 I’m currently working on Shop Inventory App 
-- 🌱 I’m currently learning Flutter, Mobile Application Development 
-- 💬 Ask me about Mobile Application Development, Flutter, Java, C++ 
+- 🌱 I’m currently learning Spring Boot, Micro Service & Enterprise  
+- 💬 Ask me about Problem Solving,Software Engineering,Mobile Application Development, Flutter, Java, C++ 
 - 📫 How to reach me: progmaksudur@gmail.com 
 
 
